@@ -1,4 +1,9 @@
-<h1 align="center">Welcome to pg-knex 👋</h1>
+<h1 align="center">pg-knex</h1>
+
+<div align="center">
+  <img alt="logo" src="./portfolio/apresentation.gif"/>
+</div>
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/victorsoares96/pg-knex" target="_blank">
